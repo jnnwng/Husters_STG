@@ -1,6 +1,7 @@
+![STGame](https://github.com/leonardozcm/Husters_STG/blob/master/img/boss4.gif)
 # Husters_STG
 一个STG游戏
-![STGame](https://github.com/leonardozcm/Husters_STG/blob/master/img/boss4.gif)  
+  
 ## 游戏剧情
 游戏模拟的是华科学生期末复习时的情形。
 主角为一名华科学生，在期末复习的时间段他一如往常地前往自习室复习功课，但到达教学楼后所看到的一切让他傻眼了：教具们一个个就像被释放了飞行魔法一般浮在空中！桌椅板凳，像是幽灵一样徘徊着，粉笔盒也浮在空中，里面的粉笔不时以飞快的速度向四面八方发射，周围也有不少前来自习的同学被困住导致无法进入教室复习……
