@@ -1,4 +1,4 @@
-![STGame](https://github.com/leonardozcm/Husters_STG/blob/master/img/boss4.gif)
+![STGame](https://github.com/leonardozcm/Husters_STG/blob/master/img/boss4.gif)  
 # Husters_STG
 一个STG游戏
   
@@ -20,8 +20,8 @@
 游戏角色的设计主要分为两大类，分别是玩家角色（下称自机）和敌方角色（下称敌机）的设计。
 ### 自机设计
 自机又称PC，是玩家能控制的角色。
-在本游戏中角色的表现为一个骑着卷轴的半秃华科男学生（很形象！），发射的子弹用彩色的圆点表示。
-![playerCharacter](https://github.com/leonardozcm/Husters_STG/blob/master/img/playerCharacter.jpg)
+在本游戏中角色的表现为一个骑着卷轴的半秃华科男学生（很形象！），发射的子弹用彩色的圆点表  
+![playerCharacter](https://github.com/leonardozcm/Husters_STG/blob/master/img/playerCharacter.jpg)  
 虽然角色的体型不算小，但实际上被击中的判定区只有中间的一个红点。
 操作上，角色设计为WASD的操作，J键为发射子弹，按住可以持续发射。
 同样，在需要微操时可以按住shift键来放慢角色的移动速度，这在弹幕密集时很有用！
