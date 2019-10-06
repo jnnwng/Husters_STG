@@ -21,31 +21,31 @@
 ### 自机设计
 自机又称PC，是玩家能控制的角色。
 在本游戏中角色的表现为一个骑着卷轴的半秃华科男学生（很形象！），发射的子弹用彩色的圆点表示  
-![playerCharacter](https://github.com/leonardozcm/Husters_STG/blob/master/img/playerCharacter.jpg)  
+![playerCharacter](https://github.com/jnnwng/Husters_STG/blob/master/img/self.png)  
 虽然角色的体型不算小，但实际上被击中的判定区只有中间的一个红点。
 操作上，角色设计为WASD的操作，J键为发射子弹，按住可以持续发射。
 同样，在需要微操时可以按住shift键来放慢角色的移动速度，这在弹幕密集时很有用！
 Z键可以更换子弹的形式，击败微积分老师后我们需要更换为英语知识，因为下一堂是英语考试！
-![currentBullet](https://github.com/leonardozcm/Husters_STG/blob/master/img/currentBullet.jpg)
+![currentBullet](https://github.com/jnnwng/Husters_STG/blob/master/img/nb.png)
 
 ## 敌机设计
 ### 杂兵设计
 杂兵是游戏中数量最多，单个强度较弱的敌机，表现为行动模式单一、共计模式单一、弹幕数量少、生命值少。但是大量的杂兵也会给玩家造成麻烦。
 杂兵的种类有很多的，本游戏中有如下：
 #### 1.粉笔盒1  
-![box1](https://github.com/leonardozcm/Husters_STG/blob/master/img/box_1.png)  
+![box1](https://github.com/jnnwng/Husters_STG/blob/master/img/b_2.png)  
 弹幕类型：以玩家当前位置为方向连续发射粉笔弹幕
 #### 2.粉笔盒2  
-![box2](https://github.com/leonardozcm/Husters_STG/blob/master/img/box_2.png)  
+![box2](https://github.com/jnnwng/Husters_STG/blob/master/img/b_1.png)  
 弹幕类型：先向前端弧形区域发射一圈弹幕，弹幕暂停一秒后集体冲向玩家目标位置
 #### 3.粉笔盒3  
-![box3](https://github.com/leonardozcm/Husters_STG/blob/master/img/box_3.png)  
+![box3](https://github.com/jnnwng/Husters_STG/blob/master/img/b_3.png)  
 弹幕类型：同时向四面八方发射弹幕
 #### 4.椅子  
 ![chair](https://github.com/leonardozcm/Husters_STG/blob/master/img/chair.png)  
 无弹幕
 #### 5.水龙头
-![Dragon](https://github.com/leonardozcm/Husters_STG/blob/master/img/dragon.png)  
+![Dragon](https://github.com/jnnwng/Husters_STG/blob/master/img/b_4.png)  
 弹幕类型：向前端直线发射一段冲击水流
 ### BOSS设计
 正如前文所说，BOSS战是游戏的高潮阶段，因此BOSS的设计也是游戏的关键，本游戏的BOSS目前设计了一种。
