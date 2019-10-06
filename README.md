@@ -39,7 +39,7 @@ Z键可以更换子弹的形式，击败微积分老师后我们需要更换为�
 ![box2](https://github.com/leonardozcm/Husters_STG/blob/master/img/box_2.png)  
 弹幕类型：先向前端弧形区域发射一圈弹幕，弹幕暂停一秒后集体冲向玩家目标位置
 #### 3.粉笔盒3  
-![box3](https://github.com/leonardozcm/Husters_STG/blob/master/img/box_3.png)  
+![box3](https://github.com/jnnwng/Husters_STG/blob/master/img/b_3.png)  
 弹幕类型：同时向四面八方发射弹幕
 #### 4.椅子  
 ![chair](https://github.com/leonardozcm/Husters_STG/blob/master/img/chair.png)  
