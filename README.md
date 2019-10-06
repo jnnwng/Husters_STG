@@ -32,7 +32,7 @@
 虽然角色的体型不算小，但实际上被击中的判定区只有中间的一个红点。
 操作上，角色设计为WASD的操作，J键为发射子弹，按住可以持续发射。
 同样，在需要微操时可以按住shift键来放慢角色的移动速度，这在弹幕密集时很有用！
-Z键可以更换子弹的形式，击败微积分老师后我们需要更换为英语知识，因为下一堂是英语考试！
+Q键可以更换子弹的形式，击败微积分老师后我们需要更换为英语知识，因为下一堂是英语考试！
 ![currentBullet](https://github.com/jnnwng/Husters_STG/blob/master/img/nb.png)  
 ![currentShoot1](https://github.com/jnnwng/Husters_STG/blob/master/img/shoot_1.png)  
 ![currentShoot2](https://github.com/jnnwng/Husters_STG/blob/master/img/shoot_2.png)
@@ -46,13 +46,13 @@ Z键可以更换子弹的形式，击败微积分老师后我们需要更换为�
 弹幕类型：以玩家当前位置为方向连续发射粉笔弹幕
 #### 2.粉笔盒2  
 ![box2](https://github.com/jnnwng/Husters_STG/blob/master/img/b_1.png)  
-弹幕类型：先向前端弧形区域发射一圈弹幕，弹幕暂停一秒后集体冲向玩家目标位置
+弹幕类型：先向前端弧形区域发射一圈粉笔弹幕，弹幕暂停一秒后集体冲向玩家目标位置
 #### 3.粉笔盒3  
 ![box3](https://github.com/jnnwng/Husters_STG/blob/master/img/b_3.png)  
-弹幕类型：同时向四面八方发射弹幕
+弹幕类型：同时向四面八方发射粉笔弹幕
 #### 4.粉笔盒4
 ![box4](https://github.com/jnnwng/Husters_STG/blob/master/img/b_4.png)  
-弹幕类型：向前端直线发射一段冲击水流
+弹幕类型：向前端直线发射一段粉笔弹幕
 #### 5.椅子  
 ![chair](https://github.com/jnnwng/Husters_STG/blob/master/img/c.png)  
 无弹幕
