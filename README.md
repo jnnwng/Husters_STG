@@ -1,4 +1,4 @@
-![STGame](https://github.com/leonardozcm/Husters_STG/blob/master/img/boss4.gif)  
+![STGame](https://github.com/jnnwng/Husters_STG/blob/master/img/yanshiGIF.gif)  
 # Husters_STG
 一个STG游戏
   
