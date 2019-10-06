@@ -33,7 +33,7 @@ Z键可以更换子弹的形式，击败微积分老师后我们需要更换为�
 杂兵是游戏中数量最多，单个强度较弱的敌机，表现为行动模式单一、共计模式单一、弹幕数量少、生命值少。但是大量的杂兵也会给玩家造成麻烦。
 杂兵的种类有很多的，本游戏中有如下：
 #### 1.粉笔盒1  
-![box1](https://github.com/leonardozcm/Husters_STG/blob/master/img/box_1.png)  
+![box1](https://github.com/jnnwng/Husters_STG/blob/master/img/b_2.png)  
 弹幕类型：以玩家当前位置为方向连续发射粉笔弹幕
 #### 2.粉笔盒2  
 ![box2](https://github.com/leonardozcm/Husters_STG/blob/master/img/box_2.png)  
