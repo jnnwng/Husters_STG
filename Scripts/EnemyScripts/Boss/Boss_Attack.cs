@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Boss_Attack : MonoBehaviour {
+    public GameObject bullet_1_1;
+    public GameObject bullet_1_2;
+    public GameObject bullet_1_3;
+    public GameObject bullet_1_4;
     public GameObject bullet;
     public GameObject bullet_2;
     public GameObject bullet_2_2;
@@ -23,8 +27,40 @@ public class Boss_Attack : MonoBehaviour {
     {
         if (other.tag == "boss_st"&& (rd.velocity == ((pos[3] - pos[0]) / time)))
         {
+            switch ((int)Random.Range(0, 4))
+            {
+                case 0:
+                    bullet = bullet_1_1;
+                    break;
+                case 1:
+                    bullet = bullet_1_2;
+                    break;
+                case 2:
+                    bullet = bullet_1_3;
+                    break;
+                case 3:
+                    bullet = bullet_1_4;
+                    break;
+            }
+
+            
             Instantiate(bullet, ts.position + Vector3.up, Quaternion.identity).GetComponent<Rigidbody2D>().velocity = Vector3.up * speed;
 
+            switch ((int)Random.Range(0, 4))
+            {
+                case 0:
+                    bullet = bullet_1_1;
+                    break;
+                case 1:
+                    bullet = bullet_1_2;
+                    break;
+                case 2:
+                    bullet = bullet_1_3;
+                    break;
+                case 3:
+                    bullet = bullet_1_4;
+                    break;
+            }
             Instantiate(bullet, ts.position + Vector3.down, Quaternion.identity).GetComponent<Rigidbody2D>().velocity = Vector3.down * speed;
         }
     }

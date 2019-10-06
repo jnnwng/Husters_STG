@@ -73,8 +73,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 2efc964a2fd89fd4699eb2360a6461fd, type: 3}
+  m_SortingOrder: 4
+  m_Sprite: {fileID: 21300000, guid: 698e6f6e11ef60d4081c30ce8bff91ee, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -123,7 +123,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2, y: 2}
+    oldSize: {x: 1.37, y: 1.95}
     newSize: {x: 2, y: 2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -181,6 +181,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fe89cb8ddb5534e94f6d787458611f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bullet_1_1: {fileID: 1821135611193258, guid: b4bf997f512f72c4dad6fb97a486f557, type: 3}
+  bullet_1_2: {fileID: 1821135611193258, guid: 30ed7071a6956e948a7c586a12e2b128, type: 3}
+  bullet_1_3: {fileID: 1821135611193258, guid: cb5b17d7f359bc343bfd1f0c77468737, type: 3}
+  bullet_1_4: {fileID: 1821135611193258, guid: d786d29ad4130cc46bfeaa16b9e490fe, type: 3}
   bullet: {fileID: 1821135611193258, guid: b4bf997f512f72c4dad6fb97a486f557, type: 3}
   bullet_2: {fileID: 1821135611193258, guid: 89e297e7af2973744a14faab0e88dba5, type: 3}
   bullet_2_2: {fileID: 1732004414436488, guid: 1b23fac508dc1f94794962c06380bc6d, type: 3}
