@@ -41,12 +41,12 @@ Z键可以更换子弹的形式，击败微积分老师后我们需要更换为�
 #### 3.粉笔盒3  
 ![box3](https://github.com/jnnwng/Husters_STG/blob/master/img/b_3.png)  
 弹幕类型：同时向四面八方发射弹幕
-#### 4.椅子  
-![chair](https://github.com/leonardozcm/Husters_STG/blob/master/img/chair.png)  
-无弹幕
-#### 5.水龙头
+#### 4.粉笔盒4
 ![Dragon](https://github.com/jnnwng/Husters_STG/blob/master/img/b_4.png)  
 弹幕类型：向前端直线发射一段冲击水流
+#### 5.椅子  
+![chair](https://github.com/jnnwng/Husters_STG/blob/master/img/c.png)  
+无弹幕
 ### BOSS设计
 正如前文所说，BOSS战是游戏的高潮阶段，因此BOSS的设计也是游戏的关键，本游戏的BOSS目前设计了一种。
 其拥有三种阶段：
