@@ -7,6 +7,8 @@
 主角为一名华科学生，在期末复习的时间段他一如往常地前往自习室复习功课，但到达教学楼后所看到的一切让他傻眼了：教具们一个个就像被释放了飞行魔法一般浮在空中！桌椅板凳，像是幽灵一样徘徊着，粉笔盒也浮在空中，里面的粉笔不时以飞快的速度向四面八方发射，周围也有不少前来自习的同学被困住导致无法进入教室复习……
 没有时间发呆了！到底我们扮演的主角能否突破这重重困难，抵达自习室成功复习呢？
 
+
+
 ## 游戏玩法
 ### 基本玩法
 游戏的基本玩法为2D的横版STG，在STG中属于弹幕密集型（参考“东方Project”）。
@@ -26,7 +28,9 @@
 操作上，角色设计为WASD的操作，J键为发射子弹，按住可以持续发射。
 同样，在需要微操时可以按住shift键来放慢角色的移动速度，这在弹幕密集时很有用！
 Z键可以更换子弹的形式，击败微积分老师后我们需要更换为英语知识，因为下一堂是英语考试！
-![currentBullet](https://github.com/jnnwng/Husters_STG/blob/master/img/nb.png)
+![currentBullet](https://github.com/jnnwng/Husters_STG/blob/master/img/nb.png)  
+![currentBullet](https://github.com/jnnwng/Husters_STG/blob/master/img/shoot_1.png)  
+![currentBullet](https://github.com/jnnwng/Husters_STG/blob/master/img/shoot_2.png)
 
 ## 敌机设计
 ### 杂兵设计
