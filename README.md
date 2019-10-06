@@ -26,7 +26,7 @@
 操作上，角色设计为WASD的操作，J键为发射子弹，按住可以持续发射。
 同样，在需要微操时可以按住shift键来放慢角色的移动速度，这在弹幕密集时很有用！
 Z键可以更换子弹的形式，击败微积分老师后我们需要更换为英语知识，因为下一堂是英语考试！
-![currentBullet](https://github.com/leonardozcm/Husters_STG/blob/master/img/currentBullet.jpg)
+![currentBullet](https://github.com/jnnwng/Husters_STG/blob/master/img/nb.png)
 
 ## 敌机设计
 ### 杂兵设计
