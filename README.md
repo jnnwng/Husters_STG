@@ -62,8 +62,8 @@ Q键可以更换子弹的形式，击败微积分老师后我们需要更换为�
 #### 第一阶段：BOSS按照固定路线高速移动，移动过程中向上、下发射较大的弹幕
 ![boss_1](https://github.com/jnnwng/Husters_STG/blob/master/img/bb_1.png)  
 #### 第二阶段：BOSS连续发射大范围定向弹幕，同时召唤两个杂兵发射大范围弹幕
-![boss_2](https://github.com/leonardozcm/Husters_STG/blob/master/img/boss_2.png)  
+![boss_2](https://github.com/jnnwng/Husters_STG/blob/master/img/bb_2.png)  
 #### 第三阶段：BOSS继续发射大范围定向弹幕，同时间隔发射跟踪弹幕
-![boss_3](https://github.com/leonardozcm/Husters_STG/blob/master/img/boss_3.png)  
+![boss_3](https://github.com/jnnwng/Husters_STG/blob/master/img/bb_3.png)  
 #### 第四阶段：BOSS连续上下快速移动，发射定向弹幕
-![boss_4](https://github.com/leonardozcm/Husters_STG/blob/master/img/boss_4.png)  
+![boss_4](https://github.com/jnnwng/Husters_STG/blob/master/img/bb_4.png)  
